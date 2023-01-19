@@ -9,5 +9,8 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fedevs&repo=Pokedux&show_owner=true)](https://github.com/Fedevs/Pokedux)  
 
+### Deployed on Github Pages
+https://fedevs.github.io/Pokedux/
+
 ### Technologies
 [<img width="60" src="https://user-images.githubusercontent.com/86263343/213344497-5d8489bc-06af-423e-a588-c77cf1a1f57e.png"/>](https://reactjs.org/docs/getting-started.html) [<img width="60" src="https://user-images.githubusercontent.com/86263343/213344487-88d0022b-b542-439a-9784-ee57d2b1f343.png"/>](https://redux-toolkit.js.org/introduction/getting-started)
