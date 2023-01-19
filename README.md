@@ -7,7 +7,7 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 # What I'm working on?
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fedevs&repo=Pokedux&show_owner=true)](https://github.com/Fedevs/Pokedux)  
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=Pokedux&show_owner=true)](https://github.com/Fedevs/Pokedux)  
 
 ### Deployed on Github Pages
 https://fedevs.github.io/Pokedux/
