@@ -7,6 +7,14 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 # What I'm working on?
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=book-a-hotel&show_owner=true)](https://github.com/Fedevs/book-a-hotel)
 
+### Deployed on Vercel
+https://book-a-hotel-ja81jjrjk-fedevs.vercel.app/
+
+### Technologies
+[<img width="60" src="https://user-images.githubusercontent.com/86263343/232657043-dadc5efb-b89e-4aca-abcf-16d57f0d074a.png"/>](https://nextjs.org/docs/getting-started)
+
+---
+
 # More projects
 
 ## Pokedux
@@ -18,4 +26,5 @@ https://fedevs.github.io/Pokedux/
 
 ### Technologies
 [<img width="60" src="https://user-images.githubusercontent.com/86263343/213344497-5d8489bc-06af-423e-a588-c77cf1a1f57e.png"/>](https://reactjs.org/docs/getting-started.html) [<img width="60" src="https://user-images.githubusercontent.com/86263343/213344487-88d0022b-b542-439a-9784-ee57d2b1f343.png"/>](https://redux-toolkit.js.org/introduction/getting-started) [<img width="60" src="https://user-images.githubusercontent.com/86263343/216745349-788e5910-e504-4727-bc94-5cd773a02d2f.png"/>](https://reactrouter.com/en/main/start/tutorial) [<img width="60" src="https://user-images.githubusercontent.com/86263343/213885544-47015d45-a9b0-44f1-b6c4-ab44132809e3.svg"/>](https://docs.docker.com/compose/gettingstarted/)
+
 ---
