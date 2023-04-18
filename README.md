@@ -7,11 +7,12 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 # What I'm working on?
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=book-a-hotel&show_owner=true)](https://github.com/Fedevs/book-a-hotel)
 
+
 ### Deployed on Vercel
 https://book-a-hotel-ja81jjrjk-fedevs.vercel.app/
 
 ### Technologies
-[<img width="60" src="https://user-images.githubusercontent.com/86263343/232657043-dadc5efb-b89e-4aca-abcf-16d57f0d074a.png"/>](https://nextjs.org/docs/getting-started)
+[<img width="60" src="https://user-images.githubusercontent.com/86263343/232657043-dadc5efb-b89e-4aca-abcf-16d57f0d074a.png"/>](https://nextjs.org/docs/getting-started) [<img width="60" src="https://user-images.githubusercontent.com/86263343/232657921-0f1b7a08-5f4c-424b-86a0-30a111eae5e6.png"/>](https://www.typescriptlang.org/docs/)
 
 ---
 
