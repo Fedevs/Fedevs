@@ -4,7 +4,25 @@
 
 I'm gonna show my projects in here, so if you are looking for personal information, find it on [<img src=https://user-images.githubusercontent.com/86263343/213340048-75cfd524-52a4-4ade-8fe3-5ddcb5d63de1.png width="20" height="20" alt="Linkedin logo">](https://www.linkedin.com/in/federicoponcela/?locale=en_US) (feel free to chat me 😁).
 
-# Projects
+# Working on
+
+## PlanEat
+### Frontend
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=PlanEatFrontend&show_owner=true)](https://github.com/Fedevs/PlanEatFrontend)
+
+### Backend (by @nadiaBatyk)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nadiaBatyk&repo=planEat&show_owner=true)](https://github.com/nadiaBatyk/planEat)
+
+### Deployed on Github Pages
+
+[https://plan-eat-frontend.vercel.app/](https://plan-eat-frontend.vercel.app/planners)
+
+### Technologies
+
+
+[<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454681-3459f693-181f-4980-bc49-d05385212390.png"/>](https://nextjs.org/docs) [<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454803-c80f6f38-c06a-4059-9108-2c9b825c6102.png"/>](https://www.typescriptlang.org/docs/) [<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271455265-0a5beb9b-1cda-4ca1-ad9a-84e0d22a0cac.png"/>](https://sass-lang.com/documentation/)
+
+# More projects
 
 ## Pokedux
 
