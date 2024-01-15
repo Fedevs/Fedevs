@@ -13,9 +13,7 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 ### Backend (by @nadiaBatyk)
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nadiaBatyk&repo=planEat&show_owner=true)](https://github.com/nadiaBatyk/planEat)
 
-### Deployed on Github Pages
-
-[https://plan-eat-frontend.vercel.app/](https://plan-eat-frontend.vercel.app/planners)
+### Not deployed at the moment
 
 ### Technologies
 
