@@ -20,7 +20,7 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 ### Technologies
 
 
-[<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454681-3459f693-181f-4980-bc49-d05385212390.png"/>](https://nextjs.org/docs) [<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454803-c80f6f38-c06a-4059-9108-2c9b825c6102.png"/>](https://www.typescriptlang.org/docs/) [<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271455265-0a5beb9b-1cda-4ca1-ad9a-84e0d22a0cac.png"/>](https://sass-lang.com/documentation/)
+<img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454681-3459f693-181f-4980-bc49-d05385212390.png"/> <img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454803-c80f6f38-c06a-4059-9108-2c9b825c6102.png"/> <img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271455265-0a5beb9b-1cda-4ca1-ad9a-84e0d22a0cac.png"/>
 
 # More projects
 
@@ -32,6 +32,6 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 https://fedevs.github.io/Pokedux/
 
 ### Technologies
-[<img width="60" src="https://user-images.githubusercontent.com/86263343/213344497-5d8489bc-06af-423e-a588-c77cf1a1f57e.png"/>](https://reactjs.org/docs/getting-started.html) [<img width="60" src="https://user-images.githubusercontent.com/86263343/213344487-88d0022b-b542-439a-9784-ee57d2b1f343.png"/>](https://redux-toolkit.js.org/introduction/getting-started) [<img width="60" src="https://user-images.githubusercontent.com/86263343/216745349-788e5910-e504-4727-bc94-5cd773a02d2f.png"/>](https://reactrouter.com/en/main/start/tutorial) [<img width="60" src="https://user-images.githubusercontent.com/86263343/213885544-47015d45-a9b0-44f1-b6c4-ab44132809e3.svg"/>](https://docs.docker.com/compose/gettingstarted/)
+<img width="60" src="https://user-images.githubusercontent.com/86263343/213344497-5d8489bc-06af-423e-a588-c77cf1a1f57e.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/213344487-88d0022b-b542-439a-9784-ee57d2b1f343.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/216745349-788e5910-e504-4727-bc94-5cd773a02d2f.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/213885544-47015d45-a9b0-44f1-b6c4-ab44132809e3.svg"/>
 
 ---
