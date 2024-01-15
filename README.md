@@ -26,8 +26,8 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=Pokedux&show_owner=true)](https://github.com/Fedevs/Pokedux)  
 
-### Deployed on Github Pages
-https://fedevs.github.io/Pokedux/
+### Deployed on Vercel
+[https://pokedux-amber.vercel.app/Pokedux](https://pokedux-amber.vercel.app/Pokedux)
 
 ### Technologies
 <img width="60" src="https://user-images.githubusercontent.com/86263343/213344497-5d8489bc-06af-423e-a588-c77cf1a1f57e.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/213344487-88d0022b-b542-439a-9784-ee57d2b1f343.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/216745349-788e5910-e504-4727-bc94-5cd773a02d2f.png"/> <img width="60" src="https://user-images.githubusercontent.com/86263343/213885544-47015d45-a9b0-44f1-b6c4-ab44132809e3.svg"/>
