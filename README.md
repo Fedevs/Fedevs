@@ -10,7 +10,7 @@ I'm gonna show my projects in here, so if you are looking for personal informati
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fedevs&repo=SplitExpenses&show_owner=true)](https://github.com/Fedevs/SplitExpenses)
 
 ### Deployed on Vercel
-[https://split-expenses-nine.vercel.app/](https://split-expenses-nine.vercel.app/)
+[https://equisplit-nine.vercel.app/](https://equisplit-nine.vercel.app/)
 
 ### Technologies
 <img width="60" src="https://github.com/Fedevs/Fedevs/assets/86263343/4ba380e0-2813-450c-8af9-6f02ffa70665" alt="Next.js"/>   <img width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/86263343/271454803-c80f6f38-c06a-4059-9108-2c9b825c6102.png" alt="Typescript"/>   <img width="60" src="https://github.com/Fedevs/Fedevs/assets/86263343/bcc3b6e8-6ddb-4fed-9d13-1e3c34146ae7" alt="TailwindCSS"/>   <img width="60" src="https://github.com/Fedevs/Fedevs/assets/86263343/721e2a33-099f-40a5-898b-99e1ab6ad4d3" alt="Zustand"/>
